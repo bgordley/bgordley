@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+plugins:
+    - jemoji
+
+logo: ./images/bryan_and_son.png
+title: Bryan Gordley
+description: Portfolio page
