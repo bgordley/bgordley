@@ -1,7 +1,7 @@
+[LinkedIn](https://linkedin.com/in/bgordley) | [GitHub](https://github.com/bgordley) | [Itch.io](https://beardedfists.itch.io/)
+
 # About Me
 Welcome! I'm **Bryan Gordley**. I am deeply committed to developing high-quality software and enjoy spending my free time in the creative space developing video games.
-
-[LinkedIn](https://linkedin.com/in/bgordley) | [GitHub](https://github.com/bgordley) | [Itch.io](https://beardedfists.itch.io/)
 
 ## Software Development :computer:
 I started my self-taught software development career in 2014, my current role being **Senior Software Engineer** at a healthcare company in the Pacific Northwest :evergreen_tree:.
