@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 plugins:
     - jemoji
 
-logo: ./images/bryan_and_son.png
+logo: ./images/bg_small.png
 title: Bryan Gordley
-description: Portfolio page
+description: Senior Software Engineer
