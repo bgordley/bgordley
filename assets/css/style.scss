@@ -16,12 +16,11 @@ strong {
     color: rgb(211, 207, 201);
   }
 
-  a {
+  a, a:visited{
     // color: rgb(83, 163, 220);
-    color: rgb(255, 172, 28);
-    text-decoration-color: currentcolor;
+    color: rgb(242, 140, 40);
   }
 
-  a:hover, a:visited, a:active {
+  a:hover, a:active {
     color: rgb(218, 160, 109);
   }
