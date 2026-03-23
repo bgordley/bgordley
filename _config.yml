@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: piharpi/jekyll-klise
 plugins:
     - jemoji
+    - jekyll-remote-theme
 
 logo: ./images/bg.jpg
 title: Bryan Gordley
