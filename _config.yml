@@ -1,7 +1,7 @@
 title: Bryan Gordley
 description: Senior Software Engineer
 
-theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Senior Software Engineer
@@ -25,6 +25,7 @@ exclude:
   - Gemfile
   - vendor/
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
