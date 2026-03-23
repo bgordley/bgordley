@@ -16,7 +16,7 @@ photo: assets/bg.jpg
 profile:
   linkedin: https://www.linkedin.com/in/bgordley
   github: https://github.com/bgordley
-  cv: true
+  cv: false
 
 # build settings
 permalink: pretty

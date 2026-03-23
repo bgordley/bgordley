@@ -3,16 +3,58 @@ layout: home
 title: Home
 ---
 
-# About
+# Hi there, I'm Bryan Gordley 👋
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a self-taught Senior Software Engineer based in the beautiful Pacific Northwest 🌲. I am deeply committed to developing high-quality, scalable software. Having built robust, enterprise solutions in the healthcare sector, I am currently applying my expertise to the aerospace industry.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+My journey in software development began in 2014, and I've loved every step of the process. Beyond my day job, I am highly passionate about the creative space—I spend my free time developing video games, creating art, and exploring new technologies.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+# 🚀 Quick Facts
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+💼 Experience: Over a decade of professional software development across healthcare and aerospace.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+🔭 Currently Working On: Mission-critical aerospace software and personal indie game projects.
 
-{% include archive.html %}
+🌱 Always Learning: Exploring new techniques in game dev, art, and modern cloud architecture.
+
+📫 How to reach me: Feel free to connect with me on LinkedIn!
+
+# 🛠️ Technical Arsenal
+
+I am proficient in a wide array of languages and technologies, having architected and developed production software using the following tools:
+
+### 💻 Languages
+Java | Python | C# | JavaScript | TypeScript | HTML/CSS | SQL
+
+### ☁️ Cloud Computing (AWS)
+
+- Compute & Containers: EC2, EKS, ECS, Lambda
+- Storage & Databases: S3, RDS, ElastiCache
+- Networking & Security: VPC, IAM, API Gateway
+- Integration: Step Functions
+
+### 🗄️ Databases & Caching
+
+- Relational: PostgreSQL, Amazon Aurora, Microsoft SQL Server, MySQL
+- NoSQL: DynamoDB
+- Caching: Redis, Memcached
+
+### ⚙️ DevOps & Infrastructure
+
+- Orchestration & Containers: Kubernetes, Helm, Docker
+- Infrastructure as Code (IaC): AWS CDK, AWS SAM, AWS CloudFormation
+- CI/CD Pipelines: GitHub Actions, GitLab CI, Bitbucket Pipelines, Jenkins
+- Test Automation & Quality: Maven, JUnit, TestNG, SonarQube
+
+### 🏗️ Frameworks & Additional Tech
+
+- Backend Frameworks: Spring, Dropwizard, Hibernate
+- Identity & Access (SSO): Okta, SAML
+- Observability: DataDog, New Relic
+
+# 🎮 Beyond the Code
+
+When I'm not writing enterprise software, you can find me...
+- Prototyping and developing indie video games.
+- Designing and creating digital art.
+- Enjoying longboarding in the PNW.
