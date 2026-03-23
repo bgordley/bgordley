@@ -1,8 +1,36 @@
-remote_theme: piharpi/jekyll-klise
-plugins:
-    - jemoji
-    - jekyll-remote-theme
-
-logo: ./images/bg.jpg
 title: Bryan Gordley
 description: Senior Software Engineer
+
+theme: cvless
+
+# site settings
+taglong: Senior Software Engineer
+tagshort: Senior Software Engineer
+
+# author settings
+author:
+  name: Bryan Gordley
+photo: assets/bg.jpg
+
+# profile links
+profile:
+  linkedin: https://www.linkedin.com/in/bgordley
+  github: https://github.com/bgordley
+  cv: true
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - Gemfile
+  - vendor/
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+sass:
+  sourcemap: never
